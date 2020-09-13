@@ -1,0 +1,7 @@
+La compilacion Normal, se usa por medio de un MakeFile donde un solo programa se puede compilar
+de manera normal sin este tener hpp o h.
+
+La compilacion Compartida puede compilar mas de un programa con el mismo Makefile sin importar
+que tenga hpp o h.
+
+La compilacion Estatica puede compilar solo un programa y este puede tener hpp o h.
